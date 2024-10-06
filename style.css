@@ -1,0 +1,26 @@
+#wrap_page{
+    width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+    background: white;
+    padding: 20px 30px;
+}
+#header{
+    text-align: center;
+}
+#menu ul li{
+    display: inline;
+    margin: left 10px;
+    padding-left: 50px;
+}
+#content_page{
+    width: 55%;
+    float: left;
+}
+#sidebar{
+    width: 45%;
+    float: right;
+}
+body{
+    background: blue;
+}
